@@ -1,8 +1,12 @@
-h1{
+body{
+    background-color: aliceblue;
+}
+h1,h3{
     text-align: center;
 }
-body{
-    font-family: Cabin, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
+.class{
+    margin:20px,auto;
+    padding: 20px;
 
+}
 
